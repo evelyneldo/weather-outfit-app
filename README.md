@@ -1,4 +1,4 @@
-# 🌦️ WeatherWear - Outfit Suggestion App
+# WeatherWear - Outfit Suggestion App
 
 **WeatherWear** is a smart and stylish web app that provides clothing recommendations based on real-time weather data. Built using React and Express, it integrates the OpenWeatherMap and Amadeus APIs to deliver current weather and a 5-day forecast, along with outfit suggestions for any searched city.
 
